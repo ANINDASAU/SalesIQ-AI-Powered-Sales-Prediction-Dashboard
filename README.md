@@ -1,6 +1,6 @@
 # SalesIQ
 
-### AI-powered sales intelligence, analytics & forecasting
+### AI-powered sales intelligence, analytics & forecasting (https://anindasau-salesiq-ai-powered-sales-prediction-dashbo-app-rw8aai.streamlit.app/)
 
 SalesIQ is a multi-page sales dashboard built with Python and Streamlit. It turns sales transactions into interactive business views: track revenue, compare products and markets, explore historical trends, and generate monthly revenue forecasts. It ships with a dark dashboard theme, MySQL support, and a bundled Excel dataset so you can get started without first configuring a database.
 
